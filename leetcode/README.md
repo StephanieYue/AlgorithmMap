@@ -6,6 +6,8 @@
 
 [167. Two Sum II - Input array is sorted](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/167.md)
 
+[4. Median of Two Sorted Arrays](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/4.md)
+
 [35. Search Insert Position](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/35.md)
 
 [300. Longest Increasing Subsequence](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/300.md)
@@ -31,6 +33,8 @@
 [5. Longest Palindromic Substring](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/5.md)
 
 [9. Palindrome Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/9.md)
+
+[14. Longest Common Prefix](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/14.md)
 
 [28. Implement strStr()](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/28.md)
 
