@@ -31,6 +31,7 @@ Problem | CName | Python | C++ | Java
 
 Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
+[3. Longest Substring Without Repeating Characters](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/3.md) | 无重复字符的最长子串 | √ | | √
 [5. Longest Palindromic Substring](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/5.md) | 最长回文子串 | √ | |
 [9. Palindrome Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/9.md) | 回文数 | √ | |
 [14. Longest Common Prefix](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/14.md) | 最长公共前缀 | √ | |
