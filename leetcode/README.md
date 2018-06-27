@@ -2,17 +2,20 @@
 
 ## `Array 数组`
 
-[1. Two Sum 在数组中找到两数之和等于目标值的两数索引](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/1.md)
+| Problem | CName | Python | C++ | Java |
+| :------- | :-----: | :----: | :----: |:----: |
 
-[167. Two Sum II - Input array is sorted 在数组中找到两数之和等于目标值的两数索引（数组已经有序）](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/167.md)
+| [1. Two Sum](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/1.md) | 在数组中找到两数之和等于目标值的两数索引 | √ | | |
 
-[4. Median of Two Sorted Arrays 两个有序数组的中位数](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/4.md)
+| [167. Two Sum II - Input array is sorted](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/167.md) |  在数组中找到两数之和等于目标值的两数索引（数组已经有序） | √ | | |
 
-[7. Reverse Integer 反转整数](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/7.md)
+| [4. Median of Two Sorted Arrays](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/4.md) | 两个有序数组的中位数 | √ | | |
 
-[35. Search Insert Position 搜索插入位置](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/35.md)
+| [7. Reverse Integer](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/7.md) | 反转整数 | √ | | |
 
-[300. Longest Increasing Subsequence 最长递增子序列](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/300.md)
+| [35. Search Insert Position](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/35.md) | 搜索插入位置| √ | | |
+
+| [300. Longest Increasing Subsequence](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/300.md) | 最长递增子序列 | √ | | |
 
 ## `Stack 栈`
 
