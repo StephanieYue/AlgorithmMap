@@ -8,10 +8,13 @@ Problem | CName | Python | C++ | Java
 [167. Two Sum II - Input array is sorted](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/167.md) |  在数组中找到两数之和等于目标值的两数索引（数组已经有序） | √ | |
 [4. Median of Two Sorted Arrays](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/4.md) | 两个有序数组的中位数 | √ | |
 [7. Reverse Integer](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/7.md) | 反转整数 | √ | |
+[15. 3Sum](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/15.md) | 在数组中找到3数之和等于0的所有组合 | √ | |
 [26. Remove Duplicates from Sorted Array](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/26.md) | 从数组中移除重复元素 | √ | |
 [27. Remove Element](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/27.md) | 从数组中移除指定元素 | √ | |
 [35. Search Insert Position](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/35.md) | 搜索插入位置 | √ | |
 [53. Maximum Subarray](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/53.md) | 子数组最大和 | √ | |
+[66. Plus One](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/66.md) | 整数 + 1 | √ | |
+[88. Merge Sorted Array](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/88.md) | 合并有序数组 | √ | |
 [300. Longest Increasing Subsequence](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/300.md) | 最长递增子序列 | √ | |
 
 ## `Stack 栈`
@@ -47,6 +50,12 @@ Problem | CName | Python | C++ | Java
 [383. Ransom Note](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/383.md) | A 是否可由 B 构造 | √ | |
 [680. Valid Palindrome II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/680.md) | 字符串中至多删除一个字符后是否可以构成回文串 | √ | |
 [647. Palindromic Substrings](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/647.md) | 回文子串个数 | √ | |
+
+## `Dynamic-Programming 动态规划`
+
+Problem | CName | Python | C++ | Java
+:------- | :----- | :----: | :----: | :----:
+[70. Climbing Stairs](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/70.md) | 台阶问题 | √ | |
 
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
