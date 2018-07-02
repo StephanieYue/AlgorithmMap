@@ -45,17 +45,24 @@ Problem | CName | Python | C++ | Java
 [13. Roman to Integer](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/13.md) | 罗马字符转换为整数 | √ | |
 [14. Longest Common Prefix](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/14.md) | 最长公共前缀 | √ | |
 [28. Implement strStr()](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/28.md) | B 在 A 中第一次出现的索引 | √ | |
-[46. Permutations](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/46.md) | 字符串全排列 | √ | |
+[38. Count and Say](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/28.md) | Count and Say | √ | √ |
+[46. Permutations](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/38.md) | 字符串全排列 | √ | |
 [125. Valid Palindrome](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/125.md) | 回文串判断（字符串中包含标点空格） | √ | |
 [383. Ransom Note](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/383.md) | A 是否可由 B 构造 | √ | |
 [680. Valid Palindrome II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/680.md) | 字符串中至多删除一个字符后是否可以构成回文串 | √ | |
 [647. Palindromic Substrings](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/647.md) | 回文子串个数 | √ | |
 
-## `Dynamic-Programming 动态规划`
+## `Dynamic Programming 动态规划`
 
 Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [70. Climbing Stairs](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/70.md) | 台阶问题 | √ | |
+
+## `Binary Search 二分查找`
+
+Problem | CName | Python | C++ | Java
+:------- | :----- | :----: | :----: | :----:
+[69. Sqrt(x)](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/69.md) | 平方根 | √ | | √
 
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
