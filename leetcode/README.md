@@ -9,9 +9,12 @@ Problem | CName | Python | C++ | Java
 [4. Median of Two Sorted Arrays](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/4.md) | 两个有序数组的中位数 | √ | |
 [7. Reverse Integer](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/7.md) | 反转整数 | √ | |
 [15. 3Sum](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/15.md) | 在数组中找到3数之和等于0的所有组合 | √ | |
+[16. 3Sum Closest](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/16.md) | 在数组中找到最接近 target 的3数之和 | √ | | √
 [26. Remove Duplicates from Sorted Array](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/26.md) | 从数组中移除重复元素 | √ | |
 [27. Remove Element](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/27.md) | 从数组中移除指定元素 | √ | |
 [35. Search Insert Position](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/35.md) | 搜索插入位置 | √ | |
+[39. Combination Sum](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/39.md) | 和的所有组合 | √ | | √
+[40. Combination Sum II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/40.md) | 和的所有不包含重复数字的组合 | √ | | √
 [53. Maximum Subarray](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/53.md) | 子数组最大和 | √ | |
 [66. Plus One](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/66.md) | 整数 + 1 | √ | |
 [88. Merge Sorted Array](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/88.md) | 合并有序数组 | √ | |
