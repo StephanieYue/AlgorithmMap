@@ -18,6 +18,10 @@ Problem | CName | Python | C++ | Java
 [53. Maximum Subarray](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/53.md) | 子数组最大和 | √ | |
 [66. Plus One](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/66.md) | 整数 + 1 | √ | |
 [88. Merge Sorted Array](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/88.md) | 合并有序数组 | √ | |
+[118. Pascal's Triangle](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/118.md) | 帕斯卡三角 | √ | |
+[121. Best Time to Buy and Sell Stock](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/121.md) | 买卖股票的最佳时间 | √ | √ | √
+[122. Best Time to Buy and Sell Stock II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/122.md) | 买卖股票的最佳时间 II | √ | √ | √
+[189. Rotate Array](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/189.md) | 旋转数组 | √ | |
 [300. Longest Increasing Subsequence](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/300.md) | 最长递增子序列 | √ | |
 
 ## `Stack 栈`
@@ -32,6 +36,7 @@ Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [2. Add Two Numbers](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/2.md) | 求两数和 | √ | |
 [21. Merge Two Sorted Lists](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/21.md) | 合并两个有序链表 | √ | |
+[23. Merge k Sorted Lists](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/23.md) | 合并K个有序链表 | √ | √ |
 [108. Convert Sorted Array to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/108.md) | 转换有序数组为二叉搜索树 | √ | |
 [109. Convert Sorted List to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/109.md) | 转换有序链表为二叉搜索树 | √ | |
 [206. Reverse Linked List](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/206.md) | 反转链表 | √ | |
