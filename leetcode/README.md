@@ -39,6 +39,7 @@ Problem | CName | Python | C++ | Java
 [23. Merge k Sorted Lists](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/23.md) | 合并K个有序链表 | √ | √ |
 [108. Convert Sorted Array to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/108.md) | 转换有序数组为二叉搜索树 | √ | |
 [109. Convert Sorted List to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/109.md) | 转换有序链表为二叉搜索树 | √ | |
+[141. Linked List Cycle](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/141.md) | 判断链表中是否有环 | √ | |
 [206. Reverse Linked List](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/206.md) | 反转链表 | √ | |
 
 ## `String 字符串`
@@ -84,6 +85,7 @@ Problem | CName | Python | C++ | Java
 Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [136. Single Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/136.md) | 单数 | √ | |
+[217. Contains Duplicate](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/217.md) | 包含重复数 | √ | |
 
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
