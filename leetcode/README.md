@@ -72,6 +72,19 @@ Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [69. Sqrt(x)](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/69.md) | 平方根 | √ | | √
 
+## `Tree 树`
+
+Problem | CName | Python | C++ | Java
+:------- | :----- | :----: | :----: | :----:
+[101. Symmetric Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/101.md) | 对称树 | √ | |
+[104. Maximum Depth of Binary Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/104.md) | 二叉树最大深度 | √ | |
+
+## `Hash Table 哈希表`
+
+Problem | CName | Python | C++ | Java
+:------- | :----- | :----: | :----: | :----:
+[136. Single Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/136.md) | 单数 | √ | |
+
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
 
