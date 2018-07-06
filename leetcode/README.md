@@ -21,6 +21,7 @@ Problem | CName | Python | C++ | Java
 [118. Pascal's Triangle](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/118.md) | 帕斯卡三角 | √ | |
 [121. Best Time to Buy and Sell Stock](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/121.md) | 买卖股票的最佳时间 | √ | √ | √
 [122. Best Time to Buy and Sell Stock II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/122.md) | 买卖股票的最佳时间 II | √ | √ | √
+[169. Majority Element](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/169.md) | 多数元素 | √ | |
 [189. Rotate Array](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/189.md) | 旋转数组 | √ | |
 [300. Longest Increasing Subsequence](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/300.md) | 最长递增子序列 | √ | |
 
@@ -29,6 +30,7 @@ Problem | CName | Python | C++ | Java
 Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [20. Valid Parentheses](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/20.md) | 括号匹配 | √ | |
+[155. Min Stack](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/155.md) | 最小值栈 | √ | | √
 
 ## `Linked List 链表`
 
@@ -40,6 +42,7 @@ Problem | CName | Python | C++ | Java
 [108. Convert Sorted Array to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/108.md) | 转换有序数组为二叉搜索树 | √ | |
 [109. Convert Sorted List to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/109.md) | 转换有序链表为二叉搜索树 | √ | |
 [141. Linked List Cycle](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/141.md) | 判断链表中是否有环 | √ | |
+[160. Intersection of Two Linked Lists](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/160.md) | 两个链表的交点 | √ | |
 [206. Reverse Linked List](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/206.md) | 反转链表 | √ | |
 
 ## `String 字符串`
@@ -54,9 +57,10 @@ Problem | CName | Python | C++ | Java
 [13. Roman to Integer](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/13.md) | 罗马字符转换为整数 | √ | |
 [14. Longest Common Prefix](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/14.md) | 最长公共前缀 | √ | |
 [28. Implement strStr()](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/28.md) | B 在 A 中第一次出现的索引 | √ | |
-[38. Count and Say](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/28.md) | Count and Say | √ | √ |
-[46. Permutations](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/38.md) | 字符串全排列 | √ | |
+[38. Count and Say](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/38.md) | Count and Say | √ | √ |
+[46. Permutations](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/46.md) | 字符串全排列 | √ | |
 [125. Valid Palindrome](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/125.md) | 回文串判断（字符串中包含标点空格） | √ | |
+[171. Excel Sheet Column Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/171.md) | Excel 表格栏编号 | √ | |
 [383. Ransom Note](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/383.md) | A 是否可由 B 构造 | √ | |
 [680. Valid Palindrome II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/680.md) | 字符串中至多删除一个字符后是否可以构成回文串 | √ | |
 [647. Palindromic Substrings](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/647.md) | 回文子串个数 | √ | |
@@ -86,6 +90,12 @@ Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [136. Single Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/136.md) | 单数 | √ | |
 [217. Contains Duplicate](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/217.md) | 包含重复数 | √ | |
+
+## `Math 数学`
+
+Problem | CName | Python | C++ | Java
+:------- | :----- | :----: | :----: | :----:
+[172. Factorial Trailing Zeroes](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/172.md) | 阶乘尾随零点 | √ | | √
 
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
