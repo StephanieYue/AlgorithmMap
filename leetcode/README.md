@@ -70,6 +70,7 @@ Problem | CName | Python | C++ | Java
 Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [70. Climbing Stairs](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/70.md) | 台阶问题 | √ | |
+[198. House Robber](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/198.md) | 盗贼盗窃 | √ | |
 
 ## `Binary Search 二分查找`
 
@@ -89,13 +90,22 @@ Problem | CName | Python | C++ | Java
 Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [136. Single Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/136.md) | 单数 | √ | |
+[202. Happy Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/202.md) | 快乐数（重复计算所有位数字平方和，最终是否得到1） | √ | |
 [217. Contains Duplicate](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/217.md) | 包含重复数 | √ | |
 
 ## `Math 数学`
 
 Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
-[172. Factorial Trailing Zeroes](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/172.md) | 阶乘尾随零点 | √ | | √
+[172. Factorial Trailing Zeroes](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/172.md) | 阶乘尾随零点 | √ | √ |
+[204. Count Primes](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/204.md) | 小于 n 的素数 | √ | |
+
+## `Bit Manipulation 位运算`
+
+Problem | CName | Python | C++ | Java
+:------- | :----- | :----: | :----: | :----:
+[190. Reverse Bits](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/190.md) | 反转位 | √ | | √
+[191. Number of 1 Bits](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/191.md) | 二进制中1的个数 | √ | | √
 
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
