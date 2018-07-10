@@ -23,6 +23,8 @@ Problem | CName | Python | C++ | Java
 [122. Best Time to Buy and Sell Stock II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/122.md) | 买卖股票的最佳时间 II | √ | √ | √
 [169. Majority Element](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/169.md) | 多数元素 | √ | |
 [189. Rotate Array](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/189.md) | 旋转数组 | √ | |
+[268. Missing Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/268.md) | 缺失数 | √ | |
+[283. Move Zeroes](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/283.md) | 移动0元素 | √ | |
 [300. Longest Increasing Subsequence](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/300.md) | 最长递增子序列 | √ | |
 
 ## `Stack 栈`
@@ -44,6 +46,8 @@ Problem | CName | Python | C++ | Java
 [141. Linked List Cycle](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/141.md) | 判断链表中是否有环 | √ | |
 [160. Intersection of Two Linked Lists](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/160.md) | 两个链表的交点 | √ | |
 [206. Reverse Linked List](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/206.md) | 反转链表 | √ | |
+[234. Palindrome Linked List](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/234.md) | 回文链表 | √ | |
+[237. Delete Node in a Linked List](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/237.md) | 删除链表任意节点 | √ | √ |
 
 ## `String 字符串`
 
@@ -61,6 +65,7 @@ Problem | CName | Python | C++ | Java
 [46. Permutations](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/46.md) | 字符串全排列 | √ | |
 [125. Valid Palindrome](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/125.md) | 回文串判断（字符串中包含标点空格） | √ | |
 [171. Excel Sheet Column Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/171.md) | Excel 表格栏编号 | √ | |
+[242. Valid Anagram](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/242.md) | 有效字谜 | √ | |
 [383. Ransom Note](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/383.md) | A 是否可由 B 构造 | √ | |
 [680. Valid Palindrome II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/680.md) | 字符串中至多删除一个字符后是否可以构成回文串 | √ | |
 [647. Palindromic Substrings](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/647.md) | 回文子串个数 | √ | |
