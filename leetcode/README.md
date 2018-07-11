@@ -41,6 +41,7 @@ Problem | CName | Python | C++ | Java
 [2. Add Two Numbers](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/2.md) | 求两数和 | √ | |
 [21. Merge Two Sorted Lists](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/21.md) | 合并两个有序链表 | √ | |
 [23. Merge k Sorted Lists](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/23.md) | 合并K个有序链表 | √ | √ |
+[86. Partition List 链表划分](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/86.md) | 链表划分 | √ | √ |
 [108. Convert Sorted Array to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/108.md) | 转换有序数组为二叉搜索树 | √ | |
 [109. Convert Sorted List to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/109.md) | 转换有序链表为二叉搜索树 | √ | |
 [141. Linked List Cycle](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/141.md) | 判断链表中是否有环 | √ | |
@@ -66,7 +67,9 @@ Problem | CName | Python | C++ | Java
 [125. Valid Palindrome](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/125.md) | 回文串判断（字符串中包含标点空格） | √ | |
 [171. Excel Sheet Column Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/171.md) | Excel 表格栏编号 | √ | |
 [242. Valid Anagram](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/242.md) | 有效字谜 | √ | |
+[344. Reverse String](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/344.md) | 反转字符串 | √ | |
 [383. Ransom Note](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/383.md) | A 是否可由 B 构造 | √ | |
+[412. Fizz Buzz](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/412.md) | Fizz Buzz | √ | |
 [680. Valid Palindrome II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/680.md) | 字符串中至多删除一个字符后是否可以构成回文串 | √ | |
 [647. Palindromic Substrings](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/647.md) | 回文子串个数 | √ | |
 
@@ -97,6 +100,8 @@ Problem | CName | Python | C++ | Java
 [136. Single Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/136.md) | 单数 | √ | |
 [202. Happy Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/202.md) | 快乐数（重复计算所有位数字平方和，最终是否得到1） | √ | |
 [217. Contains Duplicate](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/217.md) | 包含重复数 | √ | |
+[350. Intersection of Two Arrays II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/350.md) | 两个数组的交集 | √ | |
+[387. First Unique Character in a String](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/387.md) | 第一个不重复的字符 | √ | |
 
 ## `Math 数学`
 
@@ -104,6 +109,7 @@ Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [172. Factorial Trailing Zeroes](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/172.md) | 阶乘尾随零点 | √ | √ |
 [204. Count Primes](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/204.md) | 小于 n 的素数 | √ | |
+[326. Power of Three](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/326.md) | 判断一个数是否是3 的幂 | √ | |
 
 ## `Bit Manipulation 位运算`
 
@@ -111,6 +117,7 @@ Problem | CName | Python | C++ | Java
 :------- | :----- | :----: | :----: | :----:
 [190. Reverse Bits](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/190.md) | 反转位 | √ | | √
 [191. Number of 1 Bits](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/191.md) | 二进制中1的个数 | √ | | √
+[371. Sum of Two Integers](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/371.md) | 两个整数的和 | √ | √ |
 
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
