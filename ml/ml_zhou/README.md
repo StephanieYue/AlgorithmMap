@@ -5,6 +5,14 @@
 
 ![1](https://github.com/Decalogue/AlgorithmMap/blob/master/img/ml/ml_zhou/1.png)
 
+## 2.模型评估与选择
+
+![2](https://github.com/Decalogue/AlgorithmMap/blob/master/img/ml/ml_zhou/2.png)
+
+## 3.线性模型
+
+![3](https://github.com/Decalogue/AlgorithmMap/blob/master/img/ml/ml_zhou/3.png)
+
 ## 4.决策树
 
 ![4](https://github.com/Decalogue/AlgorithmMap/blob/master/img/ml/ml_zhou/4.png)
