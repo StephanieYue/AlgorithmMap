@@ -21,6 +21,9 @@
 
 ![5](https://github.com/Decalogue/AlgorithmMap/blob/master/img/ml/ml_zhou/5.png)
 
+## 6.支持向量机
+
+![6](https://github.com/Decalogue/AlgorithmMap/blob/master/img/ml/ml_zhou/6.png)
 
 `Copyright © 2018 Rain. All Rights Reserved.`
 
