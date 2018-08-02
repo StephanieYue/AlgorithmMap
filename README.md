@@ -16,9 +16,12 @@
 
 ### [《机器学习》周志华（笔记、习题、代码） 👆](https://github.com/Decalogue/AlgorithmMap/tree/master/ml/ml_zhou)
 
+### [《机器学习-算法原理与编程实践》郑捷（笔记、习题、代码） 👆](https://github.com/Decalogue/AlgorithmMap/tree/master/ml/ml_zhen)
+
+### [《统计学习方法》李航（笔记、习题、代码） 👆](https://github.com/Decalogue/AlgorithmMap/tree/master/ml/ml_lihang)
 
 ## 深度学习
 
 `Copyright © 2018 Rain. All Rights Reserved.`
 
-[樱落清璃-Decalogue的 CSDN 博客](https://www.decalogue.cn)
+关于作者：[Decalogue](https://www.decalogue.cn)
